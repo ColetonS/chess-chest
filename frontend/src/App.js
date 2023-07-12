@@ -1,5 +1,7 @@
+import Header from "./components/Header";
+
 const App = () => {
-  return <h2>Welcome to the Chess Chest</h2>;
+  return <Header />;
 };
 
 export default App;
